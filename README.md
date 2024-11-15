@@ -1,2 +1,2 @@
 # lizsullivan_site
-Liz's Personal Website for Digital Literacy
+## Liz's Personal Website for Digital Literacy
